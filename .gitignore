@@ -1,1 +1,13 @@
 
+*.class
+.mtj.tmp
+
+# Package File #
+
+.jar
+.war
+.ear
+
+# virtual machine logs, 
+
+hs_err_pid*
